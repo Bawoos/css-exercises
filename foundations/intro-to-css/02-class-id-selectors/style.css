@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+.highlight {
+  background-color: pink;
+  font-family:verdana, deja vu sans, sans-serif;
+}
+#first {
+  color: blue;
+  font-size: 36px
+  
+}
+.highlight.limelight {
+    font-size: 24px;
+}
+#second {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
