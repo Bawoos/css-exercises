@@ -5,25 +5,23 @@ body {
 .para,
 .small-para {
   color: hsl(0, 0%, 0%);
-  
 }
 
 .para {
   font-size: 22px;
-  font-weight: 900;}
+  font-weight: 900;
+}
 
 .small-para {
   font-size: 12px;
   font-weight: 900;
 }
 
-
-
 .confirm {
   background: green;
   color: white;
   font-weight: bold;
-} 
+}
 
 /*.button {
   background-color: rgb(255, 255, 255);
